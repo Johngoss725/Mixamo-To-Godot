@@ -13,3 +13,5 @@ Make sure that all of the mixamo files were downloaded with skin otherwise the s
 
 There are a few bugs but overall it works very well to quickly protrytpe a 3d Godot game. 
 
+I have a video displaying the script in action on my youtube channle : https://youtu.be/l64IhSndXuA
+
